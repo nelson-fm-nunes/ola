@@ -1,5 +1,4 @@
 <?php
-<<<<<<< HEAD
 echo "adeus";
 echo "ola";
-	
+echo "Daniel";
